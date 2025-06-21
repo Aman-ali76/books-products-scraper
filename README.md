@@ -1,7 +1,3 @@
-**README 2: Book Product Scraper with Resume Feature**
-
----
-
 # 📄 Product Page Scraper (BooksToScrape.com)
 
 A Python scraper that extracts book details (title, price, stock, image URL) from the paginated listings on [BooksToScrape.com](https://books.toscrape.com). Incorporates resume functionality via a tracker file for uninterrupted scraping.
